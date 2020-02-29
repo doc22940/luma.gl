@@ -5,6 +5,7 @@
   <a href="https://travis-ci.com/uber/luma.gl">
     <img src="https://api.travis-ci.com/uber/luma.gl.svg?branch=master" alt="build" />
   </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fdoc22940%2Fluma.gl?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdoc22940%2Fluma.gl.svg?type=shield"/></a>
   <a href="https://npmjs.org/package/luma.gl">
     <img src="https://img.shields.io/npm/dm/luma.gl.svg?style=flat-square" alt="downloads" />
   </a>
@@ -37,3 +38,7 @@ While generic enough to be used for general 3D rendering, luma.gl's mandate is p
 # Installation, Running Examples etc
 
 For details, please refer to the extensive [online website](https://luma.gl).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdoc22940%2Fluma.gl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdoc22940%2Fluma.gl?ref=badge_large)
